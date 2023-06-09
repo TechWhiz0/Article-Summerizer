@@ -7,7 +7,7 @@ const Footer = () => {
         2023 <span className="orange_gradient">Sumz </span>All Rights Reserved
       </p>
       <p>
-        Made by <span className="blue_gradient"> Jamari Broussard </span>
+        Made by <span className="blue_gradient"> Anshu Nishad </span>
       </p>
     </div>
   );

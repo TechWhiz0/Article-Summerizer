@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="flex space-x-4">
           <button
             type="button"
-            onClick={() => window.open("https://github.com/shades888")}
+            onClick={() => window.open("https://github.com/educationalgamer")}
             className="black_btn"
           >
             GitHub
@@ -18,7 +18,7 @@ const Hero = () => {
             type="button"
             onClick={() =>
               window.open(
-                "https://www.linkedin.com/in/jamari-broussard-978202132/"
+                "https://www.linkedin.com/in/anshu-nishad/"
               )
             }
             className="blue_btn"
