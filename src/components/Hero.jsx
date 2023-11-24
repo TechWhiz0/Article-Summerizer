@@ -6,7 +6,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="w-full flex justify-between items-center mb-10 pt-3">
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
-        <div className="flex space-x-4">
+        <div className="flex space-x-4 ">
           <button
             type="button"
             onClick={() => window.open("https://github.com/educationalgamer")}
@@ -34,7 +34,7 @@ const Hero = () => {
       </h1>
       <h2 className="desc">
         Simplify your reading with{" "}
-        <span className="orange_gradient">Sumz </span>, an open-source article
+        <span className="orange_gradient">SummarizeMasters </span>, an open-source article
         summarizer that transforms lengthy articles into clear, and concise
         summaries. <br />
         <p className="font-satoshi text-sm">
